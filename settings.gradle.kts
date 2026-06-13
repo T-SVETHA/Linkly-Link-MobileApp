@@ -16,3 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "Linkly-Link System"
 include(":parent")
 include(":child")
+include(":web-tests")
+
